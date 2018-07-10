@@ -4,7 +4,7 @@ This webiste provids the data used in the SPE'2018 (under review) Travis CI pape
 
 ## Survey link
 
-- https://docs.google.com/forms/d/1qqSkJ4gOqTSiSsvGGO5M1A-0cQOrYqUodcU1IXtw_Qo/prefill
+- https://www.dropbox.com/s/micgx7rj7tjc9pq/A%20study%20on%20Build%20Breakage.pdf?dl=0
 
 ## Survey responses
 
